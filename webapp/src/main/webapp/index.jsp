@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome to great kirigaalan show</h1>
-    <p>mooditu fillup pannu ilanaa kaelambu</p>
+    <p>Nandri</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
